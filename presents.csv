@@ -1,0 +1,51 @@
+Person,Present,Utility,Volume_L,Weight_kg,Price_CHF
+Mum,Perfume,10,1.12,0.05,100
+Mum,Book1,8,1.6,0.5,22
+Mum,Sprüngli Chocolate,9,0.5,0.2,25
+Mum,Scarf,6,0.2,0.1,40
+Mum,Necklace,9.5,0.2,0.1,80
+Dad,Schnaps,7,1,1.3,40
+Dad,Swiss knife holder,7.5,0.2,0.1,20
+Dad,Reindeer sausage,6,0.1,0.2,15
+Dad,Powerbank,8,0.3,0.2,45
+Dad,Tie,6.5,0.1,0.1,40
+Brother 1,Swiss army knife,8,0.4,0.3,40
+Brother 1,Book,7,1,0.3,20
+Brother 1,Lindt Lindor,10,1,0.23,15
+Brother 1,Sports Watch,6,0.5,0.22,35
+Brother 1,Lunch bag,7.5,1.5,0.2,25
+Sister-in-law 1,L'Oreal Cream,8,0.4,0.2,32
+Sister-in-law 1,La Roche-Posay Cream,7,0.72,0.5,25
+Sister-in-law 1,Candle,6,1,0.5,15
+Sister-in-law 1,Lindt praline,6.5,1,0.5,20
+Sister-in-law 1,Christmas decoration,5.5,0.5,0.5,22
+Niece 1,Kindle,10,0.5,0.2,100
+Niece 1,Lego Botanicals,8,2,0.3,35
+Niece 1,Make-up set,7.5,0.5,0.2,35
+Niece 1,Book,7,0.5,0.2,20
+Niece 1,Harry Potter writing set,6.5,1.5,0.5,25
+Nephew 1,PS Game,8,0.2,0.1,40
+Nephew 1,Car game,7.5,5,1.5,40
+Nephew 1,Perfume,8.5,0.5,0.1,35
+Nephew 1,Cap,6,0.1,0.1,20
+Nephew 1,Puzzle Game,7,1.2,0.7,30
+Nephew 2,Ninteno Joycons,9,0.5,0.3,45
+Nephew 2,Pokedex,6,1,0.6,30
+Nephew 2,Board Game,7,1.5,0.5,35
+Nephew 2,Card Game,7.5,0.3,0.2,25
+Nephew 2,Puzzle Game,8,2.5,1,35
+Brother 2,Garmin Watch,7,0.5,0.3,35
+Brother 2,Lego,9,2,0.5,60
+Brother 2,Book,8,1,0.2,35
+Brother 2,GameCube Controller,10,1.3,0.2,50
+Brother 2,Puzzle Game,6.5,0.5,0.3,20
+Sister-in-law 2,Wooden Puzzle,9,0.5,0.2,25
+Sister-in-law 2,Cookies decorations,8,1,0.4,20
+Sister-in-law 2,Cosmetics Set,7.5,0.7,0.2,35
+Sister-in-law 2,Lindt Lindor,6.5,1,0.23,15
+Sister-in-law 2,Lindt praline,6,1,0.5,20
+Niece 2,Lego Duplo,9,11,0.5,35
+Niece 2,Bunny,10,2,0.5,20
+Niece 2,Cieling Projector,8,1.5,0.3,20
+Niece 2,Plush Pillow,7,5,0.4,20
+Niece 2,Puzzle,7.5,2,0.7,25
