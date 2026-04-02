@@ -42,7 +42,7 @@ This project is a deliberate callback to that work — demonstrating that the sa
 
 - Python 3
 - pandas, matplotlib, numpy
-- SciPy MILP solver
+- SciPy MILP solver (Python wrapper for HiGHS)
 - Jupyter Notebook
 
 ## Repository Contents
